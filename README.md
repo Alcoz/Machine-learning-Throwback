@@ -6,4 +6,4 @@
 ## Done : 
 * Pré-traiements sur les images avec les **dataloader** de **PyTorch**
 * Pré-traiements sur les données numériques avec **Pandas**
-
+* Pré-traiements sur les données textuelles avec **NLTK**
